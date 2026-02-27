@@ -12,4 +12,4 @@ HOW TO RUN:
   Step 3: python recommender.py        (to see terminal demo + metrics)
   Step 4: streamlit run app.py         (to launch the web app)
 
-The web app will open at: http://localhost:8501
+The web app will open at: https://ai-job-recommendation-system1.streamlit.app/
